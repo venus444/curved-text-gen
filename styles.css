@@ -1,0 +1,41 @@
+h1 span {
+font: 30px Monaco, MonoSpace;
+height: 200px; /*approx diameter of circle you're curving around*/
+position: absolute;
+width: 20px;
+transform-origin: bottom center;
+color: white; /*TEXT COLOR*/
+font-weight: 900;
+font-variant: small-caps;
+}
+
+.char1{ transform: rotate(-114deg); }
+.char2{ transform: rotate(-108deg); }
+.char3{ transform: rotate(-102deg); }
+.char4{ transform: rotate(-96deg); }
+.char5{ transform: rotate(-90deg); }
+.char6{ transform: rotate(-84deg); }
+.char7{ transform: rotate(-78deg); }
+.char8{ transform: rotate(-72deg); }
+.char9{ transform: rotate(-66deg); }
+.char10{ transform: rotate(-60deg); }
+.char11{ transform: rotate(-54deg); }
+.char12{ transform: rotate(-48deg); }
+.char13{ transform: rotate(-42deg); }
+.char14{ transform: rotate(-36deg); }
+.char15{ transform: rotate(-30deg); }
+.char16{ transform: rotate(-24deg); }
+.char17{ transform: rotate(-18deg); }
+.char18{ transform: rotate(-12deg); }
+.char19{ transform: rotate(-6deg); }
+.char20{ transform: rotate(0deg); }
+.char21{ transform: rotate(6deg); }
+.char22{ transform: rotate(12deg); }
+.char23{ transform: rotate(18deg); }
+.char24{ transform: rotate(24deg); }
+.char25{ transform: rotate(30deg); }
+.char26{ transform: rotate(36deg); }
+.char27{ transform: rotate(42deg); }
+.char28{ transform: rotate(48deg); }
+.char29{ transform: rotate(54deg); }
+.char30{ transform: rotate(60deg); }
