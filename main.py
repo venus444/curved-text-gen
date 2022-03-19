@@ -1,3 +1,5 @@
+# credit is appreciated if you use this in your es profile
+
 def htmlgen():
     num = 0
     for letter in text:
