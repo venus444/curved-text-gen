@@ -1,2 +1,2 @@
 # curved-text-gen
-pure html and css
+generator for pure html and css
